@@ -1,0 +1,21 @@
+.root{
+-fx-background-color: #383838;
+}
+.button{
+      -fx-pref-height: 100px;
+        -fx-pref-width: 100px;
+}
+.operand-btn{
+    -fx-background-color:#fcd671;
+}
+.text-field{
+    -fx-pref-width:430px;
+    -fx-pref-height: 100px;
+}
+.zero-btn{
+    -fx-pref-width:205px;
+}
+.blue-btn{
+    -fx-background-color:#a59e9e;
+}
+
